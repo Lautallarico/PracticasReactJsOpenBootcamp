@@ -1,0 +1,10 @@
+* Para instalar react
+	npm i -g create-react-app
+
+* Para saber donde lo instale
+	where create-react-app
+
+* Me voy a la carpeta donde lo quiero crear
+	create-react-app 'nombre-de-la-app'
+
+* https://create-react-app.dev/
